@@ -1,5 +1,5 @@
 # Google-Data-Analytics-project
-As part of Google data analytics course where I learned MS EXCEL, SQL, R, and Tableau for Data analysis, I had to choose a case study, I have completed:
+As part of Google data analytics course, I had to choose a case study, I have completed:
 
 Case Study 1 
 
