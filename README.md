@@ -12,7 +12,6 @@ In this scenario, I am a junior data analyst working in the marketing analyst te
 I am assigned to find out ***"How  do  annual  members  and  casual  riders  use  Cyclistic bikes  differently?"***
 I need to provide three recommendations with data insight and visualization.
 
-google data analytics professional certificate.pdf
 ## More information 
 1. Here is the link to detailed article with steps of analysis: [Article](https://medium.com/@bltizr9/google-data-analytics-case-study-192dcad7c55c)
 
